@@ -9,25 +9,25 @@ Me considero un desarrollador con gran capacidad de resolver problemas, y, adem�
 Me especializo en crear páginas web y puedo trabajar tanto en el front-end como en el back-end. Actualmente cuento con experiencia creando páginas web con JavaScript, React, NodeJs, Express, PostgreSQL.
 
 🛠 Tecnologías <br />
-Conocimiento en Front-End:
-*React
-*Redux
-*Redux-thunk.
+Conocimiento en Front-End: <br />
+*React <br />
+*Redux <br />
+*Redux-thunk <br />
 
-Conocimiento en Back-End:
-*Node JS
-*Express
-*SQL
-*PostgreSQL
-*Sequelize
+Conocimiento en Back-End: <br />
+*Node JS <br />
+*Express <br /> 
+*SQL <br />
+*PostgreSQL <br />
+*Sequelize <br />
 
-📽 Mis proyectos
-Countries App: https://pi-countries-25a-luciano.vercel.app/
-Rick And Morty App: https://app-rick-and-morty-seven.vercel.app/
+📽 Mis proyectos <br />
+Countries App: https://pi-countries-25a-luciano.vercel.app/ <br />
+Rick And Morty App: https://app-rick-and-morty-seven.vercel.app/ <br />
 
-📩 Contacto
-Email: lucianoscaglione21@gmail.com 
-Linkedin: https://www.linkedin.com/in/luciano-scaglione-8b5737234/
+📩 Contacto <br />
+Email: lucianoscaglione21@gmail.com <br /> 
+Linkedin: https://www.linkedin.com/in/luciano-scaglione-8b5737234/ <br />
 Celular: +54 9 3412478817
 
 
