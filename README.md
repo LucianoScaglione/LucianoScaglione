@@ -1,6 +1,6 @@
 ¡Hola mundo! Soy Luciano Scaglione, Full Stack Developer 👋
 
-📖 Sobre mi
+📖 Sobre mi <br />
 Soy un Desarrollador argentino, de 21 años, con muchas ganas de conseguir mi primer trabajo IT. Poseo la capacidad de realizar proyectos web que sean escalables y modularizables para así construir en equipo.
 Me gusta estar en constante aprendizaje de nuevas tecnologías, dedicándole las horas que sean necesarias, ya que este año descubrí lo que realmente me apasiona, que es programar y por sobre todo, trabajar junto a un equipo.
 
