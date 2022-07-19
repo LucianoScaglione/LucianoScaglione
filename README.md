@@ -13,7 +13,7 @@ Conocimiento en Front-End: <br />
 *HTML5 <br />
 *CSS3 <br />
 *JavaScript <br />
-*React <br /> <br />
+*React <br />
 *Redux <br />
 
 Conocimiento en Back-End: <br />
