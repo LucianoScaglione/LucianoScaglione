@@ -10,10 +10,10 @@ Me especializo en crear páginas web y puedo trabajar tanto en el front-end como
 
 🛠 Tecnologías <br />
 Conocimiento en Front-End: <br />
-*HTML5
-*CSS3
-*JavaScript
-*React <br />
+*HTML5 <br />
+*CSS3 <br />
+*JavaScript <br />
+*React <br /> <br />
 *Redux <br />
 
 Conocimiento en Back-End: <br />
