@@ -8,7 +8,7 @@ Me considero un desarrollador con gran capacidad de resolver problemas, y, adem�
 
 Me especializo en crear páginas web y puedo trabajar tanto en el front-end como en el back-end. Actualmente cuento con experiencia creando páginas web con JavaScript, React, NodeJs, Express, PostgreSQL.
 
-🛠 Tecnologías
+🛠 Tecnologías <br />
 Conocimiento en Front-End:
 *React
 *Redux
