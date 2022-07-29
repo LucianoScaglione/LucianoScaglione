@@ -24,8 +24,8 @@ Conocimiento en Back-End: <br />
 *Sequelize <br />
 
 Otros: <br />
-*Postman <br />
-*Redux-thunk <br />
+*Git <br />
+*Scrum <br />
 *Heroku <br />
 *Vercel
 
