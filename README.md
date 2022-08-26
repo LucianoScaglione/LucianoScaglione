@@ -12,26 +12,21 @@ Me especializo en crear páginas web y puedo trabajar tanto en el front-end como
 Conocimiento en Front-End: <br />
 *HTML5 <br />
 *CSS3 <br />
+*Tailwind
 *JavaScript <br />
 *React <br />
 *Redux <br />
+*Zustand
 
 Conocimiento en Back-End: <br />
 *Node JS <br />
 *Express <br /> 
-*SQL <br />
 *PostgreSQL <br />
 *Sequelize <br />
 
 Otros: <br />
 *Git <br />
 *Scrum <br />
-*Heroku <br />
-*Vercel
-
-📽 Mis proyectos <br />
-Countries App: https://pi-countries-25a-luciano.vercel.app/ <br />
-Rick And Morty App: https://app-rick-and-morty-seven.vercel.app/ <br />
 
 📩 Contacto <br />
 Email: lucianoscaglione21@gmail.com <br /> 
