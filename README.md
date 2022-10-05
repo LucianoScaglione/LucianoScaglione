@@ -11,7 +11,7 @@ Me considero un desarrollador con gran capacidad de resolver problemas, y, adem√
 Conocimiento en Front-End: <br />
 *HTML5 <br />
 *CSS3 <br />
-*Tailwind
+*Tailwind <br />
 *JavaScript <br />
 *React <br />
 *Redux <br />
